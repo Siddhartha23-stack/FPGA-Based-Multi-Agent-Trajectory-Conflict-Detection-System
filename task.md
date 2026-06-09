@@ -1,0 +1,6 @@
+- [x] Create drone and FPGA simulation plan
+- [x] Write `drone_simulation.py` using Pygame
+- [x] Install missing dependencies (`pygame-ce`)
+- [x] Run the simulation for the user
+- [x] Verify functionality
+- [x] Create walkthrough artifact
